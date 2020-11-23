@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Admin Home Page</string>
+    <string name="add_user">ADD USER</string>
+    <string name="collect_pigmy">Collect Pigmy</string>
+</resources>
